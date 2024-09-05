@@ -1,0 +1,16 @@
+.map-container {
+    height: 50em;
+   /*  width: '100%'; */
+   margin-left: 11%;
+   margin-right: 24%; 
+   margin-top: 1%; 
+}
+
+/* Estilo específico para telas menores ou iguais a 768px */
+@media (max-width: 768px) {
+    .map-container {
+      height: 50em;
+      margin-left: 11%;
+      margin-right: 13%;
+    }
+  }
