@@ -9,8 +9,6 @@
 /* Estilo específico para telas menores ou iguais a 768px */
 @media (max-width: 768px) {
     .map-container {
-      height: 50em;
-      margin-left: 11%;
       margin-right: 13%;
     }
   }
